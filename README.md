@@ -8,3 +8,5 @@
 8. Connect Mysqlworkbench (port 3307)
 
 ![image](https://user-images.githubusercontent.com/34885915/132124977-aab1fa26-18df-402e-87bb-4f2dee4c6779.png)
+
+https://www.youtube.com/watch?v=X8W5Xq9e2Os
