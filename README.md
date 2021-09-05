@@ -17,3 +17,9 @@ Sync database with mysql workbench
 ![image](https://user-images.githubusercontent.com/34885915/132130916-504baca7-e1cd-4fd2-965f-324bed6d1fd0.png)
 
 https://www.youtube.com/watch?v=X8W5Xq9e2Os
+
+
+Issues:
+
+1. docker daemon is not running
+``"C:\Program Files\Docker\Docker\DockerCli.exe" -SwitchDaemon``
