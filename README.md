@@ -1,6 +1,6 @@
 1. Install docker https://docs.docker.com/desktop/windows/install/
 2. Install mysql container: ``docker pull mysql``
-3. Start mysql container: ``docker run -p 3307:3306 --name mysql -e MYSQL_ROOT_PASSWORD=root -d mysql``
+3. Start mysql container: ``docker run --name some-mysql -p 3309:3306 -e MYSQL_ROOT_PASSWORD=root -d mysql``
 4. Check running containers: ``docker ps -a``
 5. SSH into a running container ``docker exec -it mysql bash``
 6. Go into mysql ``mysql -uroot -p -A``
